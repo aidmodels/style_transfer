@@ -1,0 +1,6 @@
+[package]
+name="Style_transfer"
+
+[[solvers]]
+name="Neural_Style"
+class="style_transfer/solver/NeuralStyleSolver"
