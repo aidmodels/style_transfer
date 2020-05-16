@@ -1,2 +1,3 @@
 mlpm
-tensorflow
+torch
+torchvision
