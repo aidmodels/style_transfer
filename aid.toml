@@ -1,0 +1,7 @@
+[package]
+vendor="aidmodels"
+name="Style_transfer"
+tagline="Style Transfer Model"
+[[solvers]]
+name="Neural_Style"
+class="style_transfer/solver/NeuralStyleSolver"
